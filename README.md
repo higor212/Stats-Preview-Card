@@ -27,14 +27,20 @@ Users should be able to:
 
 ### Screenshot
 
+#### Mobile
 ![Mobile](https://github.com/higor212/Stats-Preview-Card/blob/master/images/challenge/Mobile.png?raw=true)
+#### Tablet
 ![Tablet](https://github.com/higor212/Stats-Preview-Card/blob/master/images/challenge/Tablet.png?raw=true)
+#### Desktop
 ![Desktop](https://github.com/higor212/Stats-Preview-Card/blob/master/images/challenge/Desktop.png?raw=true)
 
 ### Clone Adobe XD
 
+#### Mobile
 ![Mobile](https://github.com/higor212/Stats-Preview-Card/blob/master/layout/clone/pages/mobile/mobile.png?raw=true)
+#### Tablet
 ![Tablet](https://github.com/higor212/Stats-Preview-Card/blob/master/layout/clone/pages/tablet/tablet.png?raw=true)
+#### Desktop
 ![Desktop](https://github.com/higor212/Stats-Preview-Card/blob/master/layout/clone/pages/desktop/desktop.png?raw=true)
 
 ### Links
